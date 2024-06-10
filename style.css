@@ -137,7 +137,7 @@ body {
 .icon-dot {
   font-size: 1.8rem;
   color: #cfd4d9;
-  padding-right: 1rem;
+  padding-right: 2.5rem;
   position: absolute;
   right: -8px;
 }
@@ -145,6 +145,7 @@ body {
   cursor: pointer;
   color: #1d9bf0;
   padding: 1rem;
+  margin-right: 1.5rem;
   background-color: #1d9cf01b;
   border-radius: 100%;
 }
